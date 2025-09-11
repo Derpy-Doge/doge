@@ -6193,7 +6193,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: -6981827254641702772, guid: 551a2b016158cce4983b358c9e681587, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.46226418, g: 0.46226418, b: 0.46226418, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -7715,9 +7715,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 5977114869222632445, guid: deb2907ad5a466643bf5873f8e64efb3, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5977114869222632445, guid: deb2907ad5a466643bf5873f8e64efb3, type: 3}
+      propertyPath: m_Color.g
+      value: 0.64410836
+      objectReference: {fileID: 0}
+    - target: {fileID: 5977114869222632445, guid: deb2907ad5a466643bf5873f8e64efb3, type: 3}
+      propertyPath: m_Color.r
+      value: 0.3820755
+      objectReference: {fileID: 0}
     - target: {fileID: 8797775180643599062, guid: deb2907ad5a466643bf5873f8e64efb3, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8797775180643599062, guid: deb2907ad5a466643bf5873f8e64efb3, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8797775180643599062, guid: deb2907ad5a466643bf5873f8e64efb3, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
