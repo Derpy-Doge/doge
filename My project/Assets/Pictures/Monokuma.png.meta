@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Monokuma_0: 4482827593645369576
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

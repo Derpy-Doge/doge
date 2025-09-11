@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fairy-tail-logo_0: 6100491790811107466
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

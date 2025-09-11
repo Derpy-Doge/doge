@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PanicAtTheDisco-FeverCover_0: 276333515903175283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      best trombone section_0: -8185721681909812938
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
